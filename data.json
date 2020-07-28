@@ -1,0 +1,24 @@
+[
+ {
+   "age": 35,
+   "psize": 5,
+   "preafp": 5000,
+   "prehcg": 50000,
+   "preldh": 500,
+   "ctap": true,
+   "cns": 1,
+   "cnodesize": 2,
+   "cms": false,
+   "lungs": false,
+   "phisto": "embryonal",
+   "pts": "1b",
+   "poafp": 0,
+   "pohcg": 5000,
+   "poldh": 200,
+   "pns": 2,
+   "nhisto": "embryonal",
+   "prafp": 0,
+   "prhcg": 0,
+   "prldh": 0
+ }
+]
